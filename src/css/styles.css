@@ -22,3 +22,44 @@
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
 }
+
+/* STYLES CARD */
+
+.ul-list {
+  display: flex;
+  gap: 40px;
+  margin: 20px;
+}
+
+.product-card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 16px;
+  text-align: center;
+  width: 300px;
+}
+
+.product-image {
+  width: 100%;
+  height: auto;
+}
+
+.product-title {
+  font-size: 1.5rem;
+  margin: 12px 0;
+}
+
+.product-description {
+  color: #666;
+}
+
+.product-price {
+  font-size: 1.2rem;
+  color: #333;
+  margin-top: 10px;
+}
+
+.product-sku {
+  font-size: 0.9rem;
+  color: #999;
+}

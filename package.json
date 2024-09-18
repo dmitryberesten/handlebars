@@ -15,9 +15,11 @@
   "dependencies": {
     "body": "^5.1.0",
     "body-scroll-lock": "^4.0.0-beta.0",
+    "handlebars": "^4.7.8",
     "skroll": "^1.4.3",
     "swiper": "^10.0.4",
     "vite-plugin-full-reload": "^1.0.5",
+    "vite-plugin-handlebars": "^2.0.0",
     "vite-plugin-html-inject": "^1.0.1"
   }
 }
